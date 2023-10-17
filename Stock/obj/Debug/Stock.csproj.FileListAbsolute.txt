@@ -1,0 +1,12 @@
+c:\users\a.m\documents\visual studio 2015\Projects\Stock\Stock\bin\Debug\Stock.exe.config
+c:\users\a.m\documents\visual studio 2015\Projects\Stock\Stock\bin\Debug\Stock.exe
+c:\users\a.m\documents\visual studio 2015\Projects\Stock\Stock\bin\Debug\Stock.pdb
+c:\users\a.m\documents\visual studio 2015\Projects\Stock\Stock\obj\Debug\Stock.csprojResolveAssemblyReference.cache
+c:\users\a.m\documents\visual studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Form1.resources
+c:\users\a.m\documents\visual studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+c:\users\a.m\documents\visual studio 2015\Projects\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.Cache
+c:\users\a.m\documents\visual studio 2015\Projects\Stock\Stock\obj\Debug\Stock.exe
+c:\users\a.m\documents\visual studio 2015\Projects\Stock\Stock\obj\Debug\Stock.pdb
+c:\users\a.m\documents\visual studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Login.resources
+c:\users\a.m\documents\visual studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Dashboard.resources
+c:\users\a.m\documents\visual studio 2015\Projects\Stock\Stock\obj\Debug\Stock.DashboardS.resources
